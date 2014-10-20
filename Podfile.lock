@@ -32,7 +32,7 @@ PODS:
   - BBlock/StoreKit (1.2.0)
   - BBlock/UIKit (1.2.0)
   - BButton (4.0.1)
-  - Bolts (1.1.2)
+  - Bolts (1.1.3)
   - CocoaAsyncSocket (7.4.1)
   - CocoaLumberjack (1.9.2):
     - CocoaLumberjack/Extensions
@@ -48,7 +48,7 @@ PODS:
   - HockeySDK (3.6.1)
   - JSQMessagesViewController (5.3.2):
     - JSQSystemSoundPlayer
-  - JSQSystemSoundPlayer (1.5.2)
+  - JSQSystemSoundPlayer (2.0.0)
   - JTTargetActionBlock (1.0.0)
   - JVFloatLabeledTextField (0.0.9)
   - MagicalRecord (2.2):
@@ -294,7 +294,7 @@ SPEC CHECKSUMS:
   Appirater: cbdb7f305562cfde585300bfff86da01ae559deb
   BBlock: 90f0ae0e3ba94fc88be6b9a85b4adbb73b8a7c9a
   BButton: 396a5e59648e3f687b7d8201b88ebdbad6e36b59
-  Bolts: 2635e8698a630774689441047f3465d78c48d485
+  Bolts: 3db0a875235e0c9042b013af13af0f00f79b102c
   CocoaAsyncSocket: 4bbe8fc969e61e62f408de98faac676468e155b3
   CocoaLumberjack: 205769c032b5fef85b92472046bcc8b7e7c8a817
   CPAProxy: 6a90ca85dcf10ec5479da6fe9eea53a228b9bab9
@@ -303,7 +303,7 @@ SPEC CHECKSUMS:
   GTMHTTPFetcher: 0f02d5a5803dd08736462981064de6a7f59cf9bd
   HockeySDK: 15b24068466aa5ee421eed0cc1d58428d698edf6
   JSQMessagesViewController: d36408f51a8289c0354b7d9c497f572e9f26db67
-  JSQSystemSoundPlayer: c24914bc96ff5365b5d28b59d7ecffd60d1c5587
+  JSQSystemSoundPlayer: c98443b1cbb3b45db09d0d3d6c2355cf78294981
   JTTargetActionBlock: bef69054d368a91b33b98a520fa9e78e218a5a25
   JVFloatLabeledTextField: b6c7d824d231b3c01d14692feada878808480af8
   MagicalRecord: 2b471584fc9e3137f3d0a56967917baa4979e224
@@ -326,4 +326,4 @@ SPEC CHECKSUMS:
   XMPPFramework: 27f68b53bd48b37eef2a876cf2311b4c63e3d7d6
   YapDatabase: 50f763e49374c38025e8255b4c468d26d81b1048
 
-COCOAPODS: 0.34.2
+COCOAPODS: 0.34.4
